@@ -1,4 +1,4 @@
-import random
+import random # Random fonksiyonunu ekler
 
 # Gereksinimler:
 # 1. Kullanıcının parolasının içerebileceği tüm karakterleri içeren bir değişken oluşturun
